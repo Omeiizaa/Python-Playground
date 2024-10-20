@@ -1,10 +1,6 @@
 # Bank System Project
 
-This folder contains a simple Python banking system that allows users to:
-
-- Add new users with an account number, account name, balance, and pin.
-- Perform deposits and withdrawals for users.
-- View the current users in the bank's database.
+This is a simple Python banking system 
 
 ## Features
 
@@ -13,8 +9,4 @@ This folder contains a simple Python banking system that allows users to:
 3. **Withdraw**: Allows users to withdraw funds from their account.
 4. **View Database**: View all users and their details stored in the system.
 
-## How to Run the Project
 
-1. Clone the repository or download the project:
-   ```bash
-   python bank_system.py
